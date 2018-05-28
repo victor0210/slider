@@ -109,7 +109,7 @@ export default {
     display: inline-block;
     width: 100%;
     height: 6px;
-    background-color: $--border-color-base;
+    background-color: #eee;
     border-radius: 20px;
     overflow: hidden;
     top: 0;
@@ -122,7 +122,7 @@ export default {
   .t-slider__cover-line {
     height: 100%;
     display: inline-block;
-    background-color: $--color-primary;
+    background-color: #ffcc00;
     float: left;
   }
 
